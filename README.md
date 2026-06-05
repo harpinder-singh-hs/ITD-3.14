@@ -1,5 +1,3 @@
-<img width="1890" height="912" alt="Screenshot 2026-06-05 232356" src="https://github.com/user-attachments/assets/fde00e2a-dd55-4986-ac6a-343db2e56e55" />
-<img width="1892" height="925" alt="Screenshot 2026-06-05 232324" src="https://github.com/user-attachments/assets/c0e7505e-95c1-42f3-a80e-051484df1212" />
 # ITD 3.14
 
 ## Dynamic Symbolic Communication Architecture
@@ -9,6 +7,8 @@ ITD 3.14 is an experimental privacy-focused symbolic transformation environment 
 Built using symbolic structures inspired by 200+ languages, ancient scripts, and cryptographic transformation concepts.
 
 ---
+
+<img width="1892" height="925" alt="Screenshot 2026-06-05 232324" src="https://github.com/user-attachments/assets/c0e7505e-95c1-42f3-a80e-051484df1212" />
 
 # CORE FEATURES
 
@@ -63,6 +63,7 @@ ITD 3.14 integrates concepts inspired by:
 * noise-based masking environments
 
 ---
+<img width="1890" height="912" alt="Screenshot 2026-06-05 232356" src="https://github.com/user-attachments/assets/fde00e2a-dd55-4986-ac6a-343db2e56e55" />
 
 # TERMINAL STATUS
 
