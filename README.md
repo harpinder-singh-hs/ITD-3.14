@@ -63,6 +63,30 @@ ITD 3.14 integrates concepts inspired by:
 * noise-based masking environments
 
 ---
+HOW TO USE
+Encryption Process
+Type your normal message inside the ENCRYPT_MODULE.
+Press EXECUTE ENCRYPTION.
+The system will generate a dynamic symbolic encoded output.
+Copy the generated encrypted sequence using the COPY button.
+Send the encrypted output anywhere:
+WhatsApp
+Instagram
+Discord
+Telegram
+Email
+Notes
+Custom environments
+Decryption Process
+Paste the encrypted symbolic sequence inside the DECRYPT_MODULE.
+Press RUN DECRYPTION.
+ITD 3.14 will reconstruct the original readable message through its internal transformation architecture.
+Important Note
+
+ITD 3.14 encoded outputs are intended to be interpreted only through the ITD transformation environment.
+
+Due to dynamic mutation, adaptive spacing, and symbolic noise injection, outputs may appear highly inconsistent to external systems.
+
 <img width="1890" height="912" alt="Screenshot 2026-06-05 232356" src="https://github.com/user-attachments/assets/fde00e2a-dd55-4986-ac6a-343db2e56e55" />
 
 # TERMINAL STATUS
