@@ -1,3 +1,5 @@
+<img width="1890" height="912" alt="Screenshot 2026-06-05 232356" src="https://github.com/user-attachments/assets/fde00e2a-dd55-4986-ac6a-343db2e56e55" />
+<img width="1892" height="925" alt="Screenshot 2026-06-05 232324" src="https://github.com/user-attachments/assets/c0e7505e-95c1-42f3-a80e-051484df1212" />
 # ITD 3.14
 
 ## Dynamic Symbolic Communication Architecture
